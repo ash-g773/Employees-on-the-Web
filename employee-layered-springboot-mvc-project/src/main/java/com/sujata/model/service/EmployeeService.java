@@ -25,4 +25,5 @@ public interface EmployeeService {
 	List<Employee> searchByDesignation(String designation);
 	
 	boolean deleteEmployeeByName(String name);
+
 }
